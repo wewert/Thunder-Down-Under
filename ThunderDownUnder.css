@@ -1,0 +1,67 @@
+body {background-color:#FFFFFF;font-family:"arial"}
+h1,h2 {color:#3a92c4;}
+h3 {color:#3a92c4;border-bottom:1px solid #0182cc;}
+.footerul {float:left;}
+.mainnav {font:black;padding:25px 50px;}
+ul {list-style-type:none;margin:10;padding:10;}
+title
+{
+	list-style-type:none;
+	margin:10;
+	padding:10;
+	color:black;
+}
+.HomeImage
+{
+	margin:5px;
+	height:auto;
+	width:1100px;
+	float:center;
+	border:3px solid #0182cc
+}
+.Leftimg
+{
+	margin:2px;
+	border:2px;
+	height:250px;
+	width:auto;
+	float:left;
+	display:inline;
+	margin:5px;
+	border:2px solid #60ff00;
+}
+.Middleimg
+{
+	margin:2px;
+	border:2px;
+	height:250px;
+	width:auto;
+	float:left;
+	display:inline;
+	margin:5px;
+	border:2px solid #ff00ff;
+}
+.Rightimg
+{
+	margin:2px;
+	border:2px;
+	height:250px;
+	width:auto;
+	float:left;
+	display:inline;
+	margin:5px;
+	border:2px solid #eee810;
+}
+p {color:black; white-space:normal;}
+div.Bodycopy
+{
+	height:auto;
+	width:900px;
+	float:left;
+}
+.footerul
+{
+	width:200px;
+	border:1px
+	word-wrap:break-word;
+}
